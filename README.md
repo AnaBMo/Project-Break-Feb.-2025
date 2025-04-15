@@ -36,28 +36,6 @@ El proyecto sigue una estructura organizada para facilitar la escalabilidad:
 └── package.json
 ```
 
-## 🛠️ Instalación y configuración
-
-1. **Clonar el repositorio del ejercicio:**
-   ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd detalles-dulces
-   ```
-2. **Instalar dependencias:**
-   ```bash
-   npm install
-   ```
-3. **Configurar variables de entorno:**
-   Archivo `.env` en la raíz del proyecto con:
-   ```env
-   MONGO_URI=<URI_DE_TU_BASE_DE_DATOS>
-   PORT=3000
-   ```
-4. **Ejecutar el servidor:**
-   ```bash
-   npm start
-   ```
-
 ## 📌 Funcionalidades
 
 ### 🔹 Usuarios
